@@ -1,2 +1,2 @@
-# DATA-433-_Indiana_-Housing-Prediction
+# DATA-433-Indiana-Housing-Prediction
 Data Mining Class Project
